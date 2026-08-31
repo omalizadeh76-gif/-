@@ -1,0 +1,6 @@
+{
+  "name": "یادآور انقضای دارو",
+  "description": "مدیریت و ردیابی تاریخ انقضای داروها و تجهیزات پزشکی همراه با اعلان یادآوری یک ماه قبل از انقضا",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
